@@ -1,0 +1,13 @@
+# OS & Editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# Netlify local state
+.netlify/
+
+# Node / temporary files
+node_modules/
+*.log
